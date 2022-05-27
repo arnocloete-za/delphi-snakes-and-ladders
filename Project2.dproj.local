@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/23 14:21:10.000.268,=C:\Users\arno\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/23 15:16:35.000.351,C:\Users\arno\Desktop\snakesandladder_design.pas=C:\Users\arno\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/23 15:16:35.000.351,C:\Users\arno\Desktop\snakesandladder_design.dfm=C:\Users\arno\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018/09/23 15:18:31.000.508,C:\Users\arno\Desktop\Project2.dproj=C:\Users\arno\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/09/30 19:43:57.000.342,=C:\Users\arno\Desktop\delphi\Unit1.pas</Transaction>
+    <Transaction>2018/09/30 20:24:52.000.080,=C:\Users\arno\Desktop\delphi\oranje.png</Transaction>
+    <Transaction>2018/09/30 20:26:04.000.405,=C:\Users\arno\Desktop\delphi\red.jpg</Transaction>
+    <Transaction>2018/10/01 16:52:07.000.560,=C:\Users\arno\Desktop\delphi\green.jpg</Transaction>
+    <Transaction>2018/10/01 16:52:07.000.572,=C:\Users\arno\Desktop\delphi\purple.jpg</Transaction>
+    <Transaction>2018/10/01 16:52:07.000.550,=C:\Users\arno\Desktop\delphi\blue.jpg</Transaction>
+    <Transaction>2018/10/01 17:59:57.000.534,=C:\Users\arno\Desktop\delphi\red_small.jpg</Transaction>
+    <Transaction>2018/10/01 17:59:57.000.499,=C:\Users\arno\Desktop\delphi\green_small.jpg</Transaction>
+    <Transaction>2018/10/01 17:59:57.000.515,=C:\Users\arno\Desktop\delphi\purple_small.jpg</Transaction>
+    <Transaction>2018/10/01 17:59:57.000.482,=C:\Users\arno\Desktop\delphi\blue_small.jpg</Transaction>
+    <Transaction>2018/10/01 18:31:43.000.978,=C:\Users\arno\Desktop\delphi\snake2.png</Transaction>
+    <Transaction>2018/10/04 16:36:10.000.630,=C:\Users\arno\Desktop\delphi\snake3.png</Transaction>
+    <Transaction>2018/10/04 16:36:10.000.650,=C:\Users\arno\Desktop\delphi\snake4.png</Transaction>
+    <Transaction>2018/10/04 16:55:49.000.224,=C:\Users\arno\Desktop\delphi\ladder2.png</Transaction>
+    <Transaction>2018/10/04 16:55:49.000.249,=C:\Users\arno\Desktop\delphi\ladder3.png</Transaction>
+    <Transaction>2018/10/04 16:55:49.000.202,=C:\Users\arno\Desktop\delphi\ladder1.png</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="oranje.png"/>
+    <File Path="red.jpg"/>
+    <File Path="snakesandladder_design.pas"/>
+    <File Path="snakesandladder_design.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="blue.jpg"/>
+    <File Path="green.jpg"/>
+    <File Path="purple.jpg"/>
+    <File Path="blue_small.jpg"/>
+    <File Path="green_small.jpg"/>
+    <File Path="purple_small.jpg"/>
+    <File Path="red_small.jpg"/>
+    <File Path="snake2.png"/>
+    <File Path="snake3.png"/>
+    <File Path="snake4.png"/>
+    <File Path="ladder1.png"/>
+    <File Path="ladder2.png"/>
+    <File Path="ladder3.png"/>
+  </ProjectSortOrder>
+</BorlandProject>
